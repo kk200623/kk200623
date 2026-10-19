@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Krishan 👋
 
-<!--
-**kk200623/kk200623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & infrastructure engineer with 20+ years building and running production
+systems for businesses in the US, Canada and India: e-commerce, payroll, ERP
+and auction platforms.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud & servers:** AWS (EC2, S3, RDS, CloudFront), DigitalOcean, Hetzner, Linux, Apache/Nginx
+- **Reliability:** automated backups and tested restores, monitoring, security hardening
+- **Containers & automation:** Docker, Docker Compose, Python, scheduled jobs
+- **Data:** MySQL, PostgreSQL, ETL pipelines at millions of records per day
+- **Applications:** Node.js/Express, React, PHP
+
+## Currently learning in public
+
+- Terraform / OpenTofu: infrastructure as code on AWS
+- GitHub Actions: CI/CD pipelines
+- Prometheus & Grafana: monitoring and alerting
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/kishanfbd)
