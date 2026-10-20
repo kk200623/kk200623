@@ -12,11 +12,13 @@ and auction platforms.
 - **Data:** MySQL, PostgreSQL, ETL pipelines at millions of records per day
 - **Applications:** Node.js/Express, React, PHP
 
+<!--
 ## Currently learning in public
 
 - Terraform / OpenTofu: infrastructure as code on AWS
 - GitHub Actions: CI/CD pipelines
 - Prometheus & Grafana: monitoring and alerting
+-->
 
 ## Find me
 
